@@ -28,4 +28,3 @@ Source: [Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/blastcha
 ## Next Steps
 - Implement machine learning models for churn prediction
 - Experiment with advanced feature engineering and dashboards
-<img width="707" height="574" alt="image" src="https://github.com/user-attachments/assets/cab48f30-dceb-4b4e-bdcf-fc007c54c182" />
